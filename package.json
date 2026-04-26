@@ -1,0 +1,27 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dev-doyan/url_shortner#readme",
+  "bugs": {
+    "url": "https://github.com/dev-doyan/url_shortner/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-doyan/url_shortner.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.22.2",
+    "nanoid": "^5.1.9",
+    "nodemon": "^3.1.14"
+  }
+}
